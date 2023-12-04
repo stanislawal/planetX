@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05dda5b8-b206-4789-ba59-cdf0f75735de" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/single.php" beforeDir="false" />
+    <list default="true" id="05dda5b8-b206-4789-ba59-cdf0f75735de" name="Changes" comment="refactor php to html index">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +49,23 @@
       <option name="presentableId" value="Default" />
       <updated>1701354260514</updated>
       <workItem from="1701354261664" duration="7321000" />
-      <workItem from="1701454372635" duration="15879000" />
+      <workItem from="1701454372635" duration="16493000" />
     </task>
+    <task id="LOCAL-00001" summary="refactor php to html index">
+      <created>1701700667435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701700667435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor php to html index" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor php to html index" />
   </component>
 </project>
